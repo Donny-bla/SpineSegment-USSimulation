@@ -23,7 +23,7 @@ ROIs are extracted using
 Implemented in  
 [**CrossSectionSimulation.ipynb**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/CrossSectionSimulation.ipynb).
 
-- **Average runtime:** ~2 minutes on a standard CPU.  
+- **Average runtime:** ~2 minutes on a Intel Core i7-11800H @2.30GHz processor  
 - **Results directory:** [**2Dresults/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/2Dresults)  
 - **Summary data:** [**2Ddata_Chart.txt**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/2Dresults/2Ddata_Chart.txt)
 
@@ -32,9 +32,8 @@ Implemented in
 **3D Simulation**
 Implemented in  
 [**3DCrossSectionSimulation.ipynb**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/3DCrossSectionSimulation.ipynb)  
-*(If this is the same as the 2D file, update the link accordingly.)*
 
-- **Average runtime:** ~1.5 hours on a standard workstation.  
+- **Average runtime:** ~1.5 hours on a 64 gigabyte, 8-core AMD EPYC 7742 node.  
 - **Results directory:** [**3Dresults/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/3Dresults)  
 - **Summary data:** [**3Ddata_Chart.txt**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/3Dresults/3Ddata_Chart.txt)
 
