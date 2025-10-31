@@ -44,6 +44,11 @@ CFL number selection and convergence validation (based on 2D simulations) are av
 [**2DConvergence/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/2DConvergence).
 
 ---
+**Data analysis**
+Process of data analysis is available in
+[**DataAnalysis**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/DataAnalysis.ipynb)
+
+---
 
 ## Notes
 - All simulations were conducted using `.npy` ROI files for compatibility and performance reasons.  
