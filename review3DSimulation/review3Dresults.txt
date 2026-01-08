@@ -1,0 +1,33 @@
+short pulse
+L2 norm:
+{'0p2mm_focused_onepulse': {'Mesh_': [np.float64(0.7510132971466223)], 'Linear_': [np.float64(1.836213408384725)], 'NN_': [np.float64(1.8995962149102974)]}, 
+'0p2mm_planar_onepulse': {'Mesh_': [np.float64(0.6353557801203764)], 'Linear_': [np.float64(1.5426738532467348)], 'NN_': [np.float64(1.6024701182492391)]}, 
+'0p5mm_focused_onepulse': {'Mesh_': [np.float64(5.873813452686027)], 'Linear_': [np.float64(4.4440657091878935)], 'NN_': [np.float64(6.934577503348159)]}, 
+'0p5mm_planar_onepulse': {'Mesh_': [np.float64(5.081550054858576)], 'Linear_': [np.float64(4.166769438555532)], 'NN_': [np.float64(5.455561008666346)]}}
+
+Linf norm:
+{'0p2mm_focused_onepulse': {'Mesh_': [np.float64(18.48483053414694)], 'Linear_': [np.float64(27.75795593358951)], 'NN_': [np.float64(23.46511601831574)]}, 
+'0p2mm_planar_onepulse': {'Mesh_': [np.float64(24.99895059524372)], 'Linear_': [np.float64(24.572020724651335)], 'NN_': [np.float64(24.614258630858636)]},
+'0p5mm_focused_onepulse': {'Mesh_': [np.float64(62.278258208610005)], 'Linear_': [np.float64(53.962611728571645)], 'NN_': [np.float64(61.55159644564202)]},
+'0p5mm_planar_onepulse': {'Mesh_': [np.float64(53.96920960053404)], 'Linear_': [np.float64(55.43421421334129)], 'NN_': [np.float64(55.2606126836598)]}}
+
+focal_difference:
+{'0p2mm_focused_onepulse': {'Mesh_': [np.float64(0.0032687686288704813)], 'Linear_': [np.float64(0.038420707380860314)], 'NN_': [np.float64(0.048774040601077165)]}, 
+'0p2mm_planar_onepulse': {'Mesh_': [np.float64(0.04272556180252062)], 'Linear_': [np.float64(0.031888081922887605)], 'NN_': [np.float64(0.04442991709143421)]}, '0p5mm_focused_onepulse': {'Mesh_': [np.float64(0.08263258169416142)], 'Linear_': [np.float64(0.10015214166708093)], 'NN_': [np.float64(0.19965287131799653)]}, 
+'0p5mm_planar_onepulse': {'Mesh_': [np.float64(0.14488107474495907)], 'Linear_': [np.float64(0.05652668267860132)], 'NN_': [np.float64(0.09454125563286425)]}}
+
+focal_distance:
+{'0p2mm_focused_onepulse': {'Mesh_': [np.float64(0.14142135623730953)], 'Linear_': [np.float64(0.1)], 'NN_': [np.float64(1.063014581273465)]}, 
+'0p2mm_planar_onepulse': {'Mesh_': [np.float64(0.9)], 'Linear_': [np.float64(0.8062257748298549)], 'NN_': [np.float64(0.8062257748298549)]}, 
+'0p5mm_focused_onepulse': {'Mesh_': [np.float64(0.5385164807134504)], 'Linear_': [np.float64(1.2806248474865698)], 'NN_': [np.float64(1.3601470508735445)]}, '0p5mm_planar_onepulse': {'Mesh_': [np.float64(0.7810249675906654)], 'Linear_': [np.float64(0.8)], 'NN_': [np.float64(0.8062257748298549)]}}
+
+continuous pulse:
+L2 norm:
+{'0p2mm_focused_continuous': {'Mesh_': [np.float64(8.67523347085244)], 'Linear_': [np.float64(27.773450639563023)], 'NN_': [np.float64(26.697072815440166)]}, '0p2mm_planar_continuous': {'Mesh_': [np.float64(8.919130549144109)], 'Linear_': [np.float64(30.268567302567973)], 'NN_': [np.float64(30.80868097775405)]}, 
+'0p5mm_focused_continuous': {'Mesh_': [np.float64(45.170769547481584)], 'Linear_': [np.float64(40.74737769367924)], 'NN_': [np.float64(48.57398367812669)]},
+'0p5mm_planar_continuous': {'Mesh_': [np.float64(41.85137255317448)], 'Linear_': [np.float64(45.188319680692274)], 'NN_': [np.float64(53.47999224005998)]}}
+
+Linf norm:
+{'0p2mm_focused_continuous': {'Mesh_': [np.float64(32.86319578804781)], 'Linear_': [np.float64(65.78569362976185)], 'NN_': [np.float64(61.06041882190686)]}, '0p2mm_planar_continuous': {'Mesh_': [np.float64(24.166163964354016)], 'Linear_': [np.float64(48.5188244946244)], 'NN_': [np.float64(47.53169471029552)]}, 
+'0p5mm_focused_continuous': {'Mesh_': [np.float64(81.13855801357215)], 'Linear_': [np.float64(79.08693829314063)], 'NN_': [np.float64(75.8347251448359)]},
+'0p5mm_planar_continuous': {'Mesh_': [np.float64(63.982868750240094)], 'Linear_': [np.float64(63.1292480087666)], 'NN_': [np.float64(79.8335652512502)]}}
