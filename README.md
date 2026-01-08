@@ -6,7 +6,7 @@ It contains all relevant datasets, region-of-interest (ROI) extractions, and sim
 ---
 **UpsampledSegments**
 [**UpsampledSegments/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/UpsampledSegments)  
-Contains the ground truth segmentation and versions upsampled using different interpolation approaches.
+Contains the ground truth segmentation and versions upsampled using different interpolation approaches. Their process of upsampling is available in [**Upsamples.ipynb**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/Upsamples.ipynb), where the mesh-based method implements pySegUpsampler verison 0.1.1 .
 
 ---
 
@@ -24,18 +24,18 @@ Implemented in
 [**CrossSectionSimulation.ipynb**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/CrossSectionSimulation.ipynb).
 
 - **Average runtime:** ~2 minutes on a Intel Core i7-11800H @2.30GHz processor  
-- **Results directory:** [**2Dresults/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/2Dresults)  
+- **Results directory:** [**review22Dresults/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/review2DSimulation)  
 - **Summary data:** [**2Ddata_Chart.txt**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/2Dresults/2Ddata_Chart.txt)
 
 ---
 
 **3D Simulation**
 Implemented in  
-[**3DCrossSectionSimulation.ipynb**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/3DCrossSectionSimulation.ipynb)  
+[**3DSpineSimulation.ipynb**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/3DCrossSectionSimulation.ipynb)  
 
 - **Average runtime:** ~1.5 hours on a 64 gigabyte, 8-core AMD EPYC 7742 node.  
-- **Results directory:** [**3Dresults/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/3Dresults)  
-- **Summary data:** [**3Ddata_Chart.txt**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/3Dresults/3Ddata_Chart.txt)
+- **Results directory:** [**review23Dresults/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/review3DSimulation)
+- **Summary data:** [**3Ddata_Chart.txt**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/review3DSimulation/review3Dresults.txt)
 
 ---
 
@@ -45,7 +45,7 @@ CFL number selection and convergence validation (based on 2D simulations) are av
 
 ---
 **Data analysis**
-Process of data analysis is available in
+Process of data analysis and statistical comparison is available in
 [**DataAnalysis**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/DataAnalysis.ipynb)
 
 ---
