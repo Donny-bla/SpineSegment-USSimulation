@@ -24,7 +24,7 @@ Implemented in
 [**CrossSectionSimulation.ipynb**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/CrossSectionSimulation.ipynb).
 
 - **Average runtime:** ~2 minutes on a Intel Core i7-11800H @2.30GHz processor  
-- **Results directory:** [**review22Dresults/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/review2DSimulation) 
+- **Results directory:** [**review2Dresults/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/review2DSimulation) 
 
 ---
 
@@ -33,7 +33,7 @@ Implemented in
 [**3DSpineSimulation.ipynb**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/3DCrossSectionSimulation.ipynb)  
 
 - **Average runtime:** ~1.5 hours on a 64 gigabyte, 8-core AMD EPYC 7742 node.  
-- **Results directory:** [**review23Dresults/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/review3DSimulation)
+- **Results directory:** [**review3Dresults/**](https://github.com/Donny-bla/SpineSegment-USSimulation/tree/main/review3DSimulation)
 - **Summary data:** [**3Ddata_Chart.txt**](https://github.com/Donny-bla/SpineSegment-USSimulation/blob/main/review3DSimulation/review3Dresults.txt)
 
 ---
