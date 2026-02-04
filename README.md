@@ -1,4 +1,4 @@
-# Supporting Document for *"A Paper"*
+# Supporting Document for *"Medical image upsampling algorithm to reduce errors in grid-based ultrasound simulation"*
 
 This repository provides the supporting materials and simulation data for the paper *“A Paper”*.  
 It contains all relevant datasets, region-of-interest (ROI) extractions, and simulation notebooks used in both 2D and 3D analyses.
@@ -54,8 +54,8 @@ Process of data analysis and statistical comparison is available in
 - The provided datasets and scripts can be used to reproduce all figures and tables presented in the paper.
 
 
-## Citation?
-
+## Citation
+Donny Liangpu Liu, Rui Xu; Medical image upsampling algorithm to reduce errors in grid-based ultrasound simulation. JASA Express Lett. 1 February 2026; 6 (2): 022001. https://doi.org/10.1121/10.0042350
 
 ---
 
